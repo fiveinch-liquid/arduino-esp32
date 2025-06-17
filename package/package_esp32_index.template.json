@@ -2,11 +2,11 @@
   "packages": [
     {
       "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "maintainer": "fiveinch-liquid",
+      "websiteURL": "https://github.com/fiveinch-liquid/arduino-esp32",
+      "email": "24272251+fiveinch-liquid@users.noreply.github.com",
       "help": {
-        "online": "http://esp32.com"
+        "online": "https://github.com/fiveinch-liquid/arduino-esp32"
       },
       "platforms": [
         {
